@@ -1,2 +1,1 @@
-I opened a git repository today~
-Good START!
+this is my fist git file.
